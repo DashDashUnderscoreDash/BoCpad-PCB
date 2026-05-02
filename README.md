@@ -1,5 +1,7 @@
 # **BoCpad**
 
+## This PCB has not been tested yet but I am ordering PCBs and will update if they work as intended - 5/2/26
+
 BoCpad is an STM32 7u leaf spring tadpole mount macropad utilizing choc V1 switches and [hexagon keycaps](https://www.littlekeyboards.com/products/hex-keycaps) that was inspired by [Boards of Canada's](https://en.wikipedia.org/wiki/Boards_of_Canada) announcement of a new album in 2026
 
 This is forced solder and forced layout
