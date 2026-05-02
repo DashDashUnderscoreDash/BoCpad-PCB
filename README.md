@@ -14,11 +14,11 @@ This is forced solder and forced layout
 
 
 ### Layout
-![Layout]()
+![Layout](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/Layout.jpg?raw=true)
 
 ### Renders
-![Render1]()
-![Render2]()
+![Render1](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/Render1.png?raw=true)
+![Render2](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/Render2.png?raw=true)
 
 ### PCB front image
 ![PCB Front](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/PCB%20Front%20Render.jpg?raw=true)
