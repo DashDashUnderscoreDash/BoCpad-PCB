@@ -10,6 +10,7 @@ This is forced solder and forced layout
 - Image of PCB
 - STEP model of PCB
 - Edgecuts of PCB
+- VIAL firmware
 ```
 
 VIAL firmware commissioned by [Moinboards.](https://moinboards.de/) Thank you again so much!
