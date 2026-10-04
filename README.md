@@ -20,8 +20,8 @@ VIAL firmware commissioned by [Moinboards.](https://moinboards.de/) Thank you ag
 ![Layout](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/Layout.jpg?raw=true)
 
 ### PCB back
-![PCB back](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/PCB%20Front%20Render.jpg?raw=true)
+![PCB back](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/BoCpad%20PCB%20-%20169%20-%201080.png)
 
 ### Case
-![Blue case](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/PCB%20Back%20Render.jpg?raw=true)
-![Orange case](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/PCB%20Back%20Render.jpg?raw=true)
+![Blue case](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/BoCpad%20Blue%20-%20169%20-%201080.png)
+![Orange case](https://github.com/DashDashUnderscoreDash/BoCpad-PCB/blob/main/Images/BoCpad%20Orange%20-%20169%20-%201080.png)
