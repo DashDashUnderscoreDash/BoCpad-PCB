@@ -1,0 +1,3 @@
+LTO_ENABLE = yes
+QMK_SETTINGS = yes
+MIDI_ENABLE = yes
